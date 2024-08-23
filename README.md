@@ -22,4 +22,4 @@ Welcome to the **Weather App**! This project is a simple web application that al
 weather-app/
 ├── index.html     # The main HTML file
 ├── style.css      # The CSS file for styling
-└── script.js      # The JavaScript file for logic
+└── index.js      # The JavaScript file for logic
